@@ -1,3 +1,7 @@
 hello world
 change 1
+
 clone 修改更新 远端repo2
+
+本地建立的repo1 更新远程端
+
